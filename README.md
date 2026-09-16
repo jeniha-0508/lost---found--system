@@ -4,6 +4,8 @@ A full-stack Lost & Found Management System for a college campus. Students and
 staff can report lost items, register found items, browse/search/filter all
 reports, and edit or delete their own entries.
 
+*Demo Link* = 
+
 - **Frontend:** HTML, CSS, vanilla JavaScript (no build step, no framework)
 - **Backend:** Django REST Framework
 - **Database:** SQLite
